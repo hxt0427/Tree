@@ -1,0 +1,7 @@
+﻿  Tree.cpp
+c:\users\15597\source\vs-workspace\tree\tree\huffman.h(64): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\15597\source\vs-workspace\tree\tree\huffman.h(128): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\15597\source\vs-workspace\tree\tree\huffman.h(133): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\15597\source\vs-workspace\tree\tree\huffman.h(156): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\15597\source\vs-workspace\tree\tree\huffman.h(170): warning C4018: “<”: 有符号/无符号不匹配
+  Tree.vcxproj -> C:\Users\15597\source\vs-workspace\Tree\Debug\Tree.exe
